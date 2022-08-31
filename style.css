@@ -20,6 +20,16 @@ body {
   color: var(--text-color);
 
   font-family: 'Roboto', sans-serif;
+
+  display: grid;
+
+  min-height: 100vh;
+  
+}
+
+main {
+  align-self: end;
+  justify-self: center;
 }
 
 button {
@@ -42,14 +52,10 @@ button svg {
   fill: var(--primary-color);
 } */
 
-.container{
-  margin: 0 auto;
 
-}
 #timer {
   display: flex;
-  text-align: center;
-  justify-content: center;
+  margin-bottom: 1.6rem;
 
   font-size: 8.8rem;
   line-height: 10rem;
@@ -71,9 +77,9 @@ button svg {
 }
 
 footer {
-  position: absolute;
-  padding: 4rem;
-  bottom: 0;
-  right: 0;
+  align-self: end;
+  justify-self: end;
+  padding: 0 4rem 3.2rem 0;
+  
 
 }
