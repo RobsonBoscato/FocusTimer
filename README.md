@@ -7,10 +7,10 @@ Tornar o relógio funcional ao método Pomodoro, com interface dinâmica, custom
 Detalhamento das etapas realizadas:
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Criado a estrutura HTML</li>
+  <li>Finalizado a estlização via CSS</li>
+  <li>eventListener e responsividade, nos botões via DOM/JS</li>
+  <li>implementado pequenas validações de input, e funções dos botões(Play,Pause,Set e Stop.</li>
   <li></li>
 </ul>
 
