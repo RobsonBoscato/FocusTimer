@@ -37,11 +37,12 @@ export default function ControlsFactory({
 
   function getMinutes() {
     let newMinutes = prompt('Quantos minutos? ') || 0;
+    let setTimer = newMinutes;
     if (!newMinutes) {
       return false;
     }
 
-    return newMinutes;
+    return newMinutes, setTimer;
   }
 
   return {
