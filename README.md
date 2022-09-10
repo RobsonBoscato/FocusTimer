@@ -11,13 +11,15 @@ Detalhamento das etapas realizadas:
   <li>Finalizado a estlização via CSS</li>
   <li>eventListener e responsividade, nos botões via DOM/JS</li>
   <li>implementado pequenas validações de input, e funções dos botões(Play,Pause,Set e Stop.</li>
-  <li></li>
+  <li>Finalizado a funcionalidade de todos os botões</li>
+  <li>Refatorado o código e feito a modularização</li>
 </ul>
 
 Propostas para implementações futuras:
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Customização para adicionar ou remover minutos</li>
+  <li>Mais opções de sons</li>
+  <li>Interface mais amigável</li>
+  <li>Opçaõ de Light/Dark Mode</li>
 </ul>
